@@ -14,10 +14,7 @@ The complementary filter algorithm fuses accelerometer-magnetometer and gyroscop
 
 ## Usage
 To use this code:
-1. Clone the repository: `git clone https://github.com/ahmetsduru/complementary_filter.git`
-2. Open the project in your preferred IDE or text editor.
-3. Upload sensor data (`sensor_data.txt`) obtained from your Mini Pixhawk or use the provided sample data.
-4. Compile and run `main.cpp` to observe the attitude estimation output.
+1. Clone the repository: `[git clone https://github.com/ahmetsduru/complementary_filter.git]`
 
 ## Dependencies
 This project requires a C++ compiler that supports C++11 or later.
