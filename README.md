@@ -4,7 +4,7 @@ This repository contains an implementation of a complementary filter for realtim
 
 ## Sensors and Data Frequency
 - **Accelerometer**: Measures linear acceleration in three axes.
-- **Gyroscope**: Measures rate of change of angular velocity around three axes.
+- **Gyroscope**: Measures angular velocity around three axes.
 - **Magnetometer**: Provides orientation relative to the Earth's magnetic field.
 
 All sensor data is sampled at a frequency of 20 Hz.
